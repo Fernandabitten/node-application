@@ -10,12 +10,12 @@
 > - Cascade (ensures that the tag is deleted if the user deletes the note)
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Fer-Nodejs" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Fer-express" height="40" width="40" src="https://icongr.am/devicon/express-original.svg?size=128&color=221a8e"> 
-  <img align="center" alt="Fer-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Fer-sqlite" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg"> 
-  <img align="center" alt="Fer-sqlite" height="40" width="40"src="https://knexjs.org/knex-logo.png">
-  <img align="center" alt="Fer-bcrypt" height="40" width="40"src="https://adampower.io/images/Technology_Logos/BCrypt_Logo.png">
+  <img align="center" alt="Fer-Nodejs" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Fer-express" height="30" width="30" src="https://icongr.am/devicon/express-original.svg?size=128&color=221a8e"> 
+  <img align="center" alt="Fer-Js" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Fer-sqlite" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg"> 
+  <img align="center" alt="Fer-sqlite" height="30" width="30"src="https://knexjs.org/knex-logo.png">
+  <img align="center" alt="Fer-bcrypt" height="30" width="30"src="https://adampower.io/images/Technology_Logos/BCrypt_Logo.png">
 </div>
 
 
